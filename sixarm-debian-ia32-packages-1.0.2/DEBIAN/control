@@ -1,0 +1,10 @@
+Package: sixarm-debian-ia32-packages
+Version: 1.0.2
+Section: devel
+Priority: optional
+Architecture: all
+Depends: ia32-libs, lib32gcc1, libc6-i386, lib32z1, lib32stdc++6, lib32asound2, lib32ncurses5, lib32z1-dev, lib32bz2-dev, ia32-libs-gtk
+Maintainer: Joel Parker Henderson <joel@sixarm.com>
+Description: ia32 packages we like to use
+ ia32 packages we like to use together.
+
